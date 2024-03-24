@@ -402,4 +402,4 @@ That's it! Your package is now published on npm and can be installed and used by
 1. [Node projects](https://github.com/ahmedjawad1857/node_projects)
 2. [TypeScript assignments](https://github.com/ahmedjawad1857/ts-assignments)
 
-Thanks for seeing myrepositories.
+**Thanks for seeing my repositories.**
